@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&text=Chaewoo%20%7C%20Frontend" />
 </picture>
 
-## 💫 Tech Stacks
+---
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -19,3 +19,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E90FF?style=flat&logo=sas&logoColor=white)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2fill&layout=compact)
