@@ -19,6 +19,3 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E90FF?style=flat&logo=sas&logoColor=white)
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2fill&layout=compact)
